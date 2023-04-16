@@ -50,7 +50,16 @@ These are recording of the deployment and minting of the coins to different Gana
 ![mint1](./recordings/mintingcoin.mov)
 
 
+
+https://user-images.githubusercontent.com/116671695/232347415-1abc5a61-e560-4f34-a3f2-7fc07ff04537.mov
+
+
+
 ![mint2](./recordings/mintAccount2.mov)
+
+
+
+https://user-images.githubusercontent.com/116671695/232347432-59557a56-b7c7-4008-9e5d-dc8f0ebe14b9.mov
 
 
 
